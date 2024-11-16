@@ -17,6 +17,11 @@ const index = [
     path: "/dashboard/user-grid",
   },
   {
+    title: "Listado de clientes",
+    Icon: Icons.UserGridIcon,
+    path: "/dashboard/listado-usuarios",
+  },
+  {
     title: "User List",
     Icon: Icons.UserManagementIcon,
     path: "/dashboard/user-list",
